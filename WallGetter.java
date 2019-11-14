@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class WallGetter {
+    
     private static String userHome = System.getProperty("user.home");
     private static String directoryPath = userHome + "\\AppData\\Local\\Packages" +
             "\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
